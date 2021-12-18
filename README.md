@@ -5,7 +5,7 @@
 🕵️ Currently looking to practice my skills with new and fun projects
 
 ### Contact me!
-[![Email]](
+[!Email](
 mailto: tejuoshodavid+github@gmail.com)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](linkedInLink)
  -->
