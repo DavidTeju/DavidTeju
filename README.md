@@ -1,7 +1,7 @@
 ## 👋 Hey!, I’m @DavidTejuosho
 
 👨🏾‍🦱 I'm an 18 year old computer engineering student who's absolutely in love with computers and programming.  
-😄 Pronouns: he/him
+😄 Pronouns: he/him  
 🕵️ Currently looking to practice my skills with new and fun projects
 
 ### Contact me!
