@@ -10,13 +10,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/david-tejuosho-656117229/)
 
 ## Languages
-🌐 HTML / Vanilla CSS
+🌐 HTML 5 / CSS 3
 
-☕ Java
+☕ Java 17
 
 📜 Javascript
 
-🐍 Learning python
+🐍 Learning Python 3
 
 
 <!-- ## My favorite Projects
