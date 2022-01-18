@@ -7,7 +7,7 @@
 
 ### Contact me!
 [![Email](https://img.shields.io/badge/-Gmail-000?logo=gmail)](mailto:tejuoshodavid+github@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/david-tejuosho-656117229/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/david-tejuosho/)
 
 ## Languages
 🌐 HTML 5 / CSS 3
