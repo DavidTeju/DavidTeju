@@ -11,20 +11,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/david-tejuosho/)
 
 ## Languages
-🌐 HTML 5 / CSS 3
+🌐 HTML / CSS
 
-☕ Java 17
+☕ Java
 
 📜 Javascript
 
-🐍 Learning Python 3
+🐍 Python
+
+#️⃣ C#
 
 
 <!-- ## My favorite Projects
 [projectName](projectLink) — projectDescription. 
 
 
-**DavidTeju/DavidTeju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
