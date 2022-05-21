@@ -4,7 +4,7 @@
 👨🏾‍🦱 I'm an 18 year old computer engineering student who's absolutely in love with computers and programming.  
 😄 Pronouns: he/him  
 🕵️ Currently looking to practice my skills with new and fun projects  
-🕸 Personal Website: https://davidteju.github.io
+🕸 Personal Website: https://davidteju.dev
 
 ### Contact me!
 [![Email](https://img.shields.io/badge/-Gmail-000?logo=gmail)](mailto:tejuoshodavid+github@gmail.com)
